@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506033101 source:/home/dustin/CodeBlocks/p3/main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<string>
+
